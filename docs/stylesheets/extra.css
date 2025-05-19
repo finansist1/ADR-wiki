@@ -1,0 +1,11 @@
+/* Красные заголовки h1, h2, h3 */
+h1, h2, h3 {
+    color: #990000 !important;
+    font-weight: bold !important;
+}
+
+/* Если нужно только для h1 (главного заголовка) */
+h1 {
+    color: #990000 !important;
+    font-weight: bold !important;
+}

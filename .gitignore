@@ -1,0 +1,17 @@
+﻿# Игнорируем системные файлы
+.BIN/
+System Volume Information/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Игнорируем кэш Python
+__pycache__/
+*.py[cod]
+
+# Игнорируем настройки IDE
+.idea/
+.vscode/
+
+# Игнорируем сгенерированный сайт
+site/

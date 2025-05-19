@@ -13,15 +13,11 @@ theme:
         name: Dark mode
 
 
-icon:
-  favicon: assets/images/favicon.svg
-
 extra_css:
   - stylesheets/extra.css
 nav:
   - Главная: index.md
   - Инструкции:
-      - instructions.md
       - Инструкция 1С УАТ для логистов Документ Заказ на ТС: zakaz na ts.md
   - Ресурсы: resources.md
 

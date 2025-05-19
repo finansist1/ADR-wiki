@@ -1,3 +1,4 @@
+site_url: https://adr-wiki.netlify.app
 backend:
   name: github
   repo: finansist1/ADR-wiki
